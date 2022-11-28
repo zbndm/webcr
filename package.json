@@ -78,7 +78,7 @@
     "eslint": "^7.32.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.19.1",
-    "got": "^11.8.2",
+    "got": "^12.5.3",
     "nuxt": "^2.15.8",
     "rimraf": "^3.0.2",
     "sass": "^1.43.2",
